@@ -1,5 +1,5 @@
-### Hi there 👋 This is Jayaprakash
+### Hi 👋 This is Jayaprakash
 
-- 🔭 I’m currently working as front-end developer
-- 🌱 I’m currently learning Graphql and React js
+- 🔭 Working as front-end developer
+- 🌱 currently learning npm cli tools and PWA
 
